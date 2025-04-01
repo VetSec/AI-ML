@@ -2,7 +2,7 @@
 
 **Repository:** [`https://github.com/VetSec/AI-ML`](https://github.com/VetSec/AI-ML)
 
-**Purpose:** Provide clear guidance, practical strategies, and effective tooling to leverage AI models like ChatGPT and Gemini for various professional and technical tasks—specifically focused on career transitions, technical assistance, and productivity enhancement.
+**Purpose:** Provide clear guidance, practical strategies, and effective tooling to leverage AI applications like OpenAI's ChatGPT and Google Gemini for various professional and technical tasks—specifically focused on career transitions, technical assistance, and productivity enhancement.
 
 ---
 
@@ -72,12 +72,6 @@ We welcome contributions to enhance this resource! Clearly documented guidelines
 - **Community Best Practices**
 
 *(Contribution guidelines coming soon in `CONTRIBUTING.md`.)*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License—clearly see the [`LICENSE`](./LICENSE) file for details.
 
 ---
 
