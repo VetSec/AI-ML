@@ -18,8 +18,7 @@ This repository includes:
 
 ### 📖 **Detailed Guides**
 Clear, step-by-step documentation to effectively leverage AI for specific scenarios, including:
-- Resume and cover letter creation (in progress)
-
+- Resume and cover letter creation
 - LinkedIn profile optimization (coming soon)
 - Interview preparation and mock interviews (coming soon)
 - Technical documentation support (coming soon)
@@ -40,8 +39,8 @@ Scripts, workflows, or configurations to clearly streamline interactions with AI
 
 Our initial set of guides clearly focuses on leveraging AI for creating compelling, high-impact resumes:
 
-- **[Creating High-Impact Resumes with ChatGPT](./resume/ChatGPT/README.md)** *(Comprehensive resume-building guidance using ChatGPT)*
-
+- **[OpenAI ChatGPT](./resume/ChatGPT/README.md)**
+- **[Google Gemini](./resume/Gemini/README.md)**
 ---
 
 ## 🛠️ How to Use This Repository
