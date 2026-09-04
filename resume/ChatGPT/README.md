@@ -42,6 +42,7 @@ Detailed instructions for clearly setting and updating context with ChatGPT, ens
 ## 🌐 Additional External Resources:
 - **Resume.io:** [Resume Builder Tool](https://resume.io) – Easily create ATS-friendly resumes.
 - **Jobscan:** [ATS Resume Checker](https://www.jobscan.co/) – Explicitly compare your resume to job descriptions for ATS optimization.
+- **ResumeAI:** [Free ATS Checker](https://withresumeai.com/) – Free ATS checks (3/day anonymous, 10/day free account), AI resume builder, State of ATS 2026 (738 employers / 704 portal-verified; Workday 37.9%), live job-seeker leaderboard (paid placement/visibility).
 - **Cyberseek:** [Cybersecurity Career Resources](https://www.cyberseek.org/) – Clearly understand cybersecurity job requirements and pathways.
 - **LinkedIn Learning:** [Resume Writing Courses](https://www.linkedin.com/learning/topics/resume-writing) – Expand your resume-writing skills explicitly with professional training.
 
